@@ -1,0 +1,27 @@
+
+{
+    "lines":[
+        {
+            "name":"test1",
+            "type":"LINE",
+            "outline_color":{
+                "red":1.0,
+                "green":1.0,
+                "blue":1.0,
+                "alpha":1.0
+            },
+            "circular":false,
+            "station_names":[
+                "test1"
+            ]
+        }
+    ],
+    "stations":[
+        {
+            "name":"test1",
+            "type":"STATION",
+            "x":581.0,
+            "y":252.0
+        }
+    ]
+}
